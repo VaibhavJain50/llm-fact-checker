@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments (Crucial to ignore)
+venv/
+env/
+.env
+.venv/
+
+# Distribution / Packaging
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# ChromaDB (Local Vector Store - DO NOT UPLOAD)
+chroma_db/
+fact_check_db/
+*.parquet
+*.sqlite3
+
+# OS Junk
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/

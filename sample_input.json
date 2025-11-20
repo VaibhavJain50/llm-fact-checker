@@ -1,0 +1,17 @@
+[
+  {
+    "id": "test_001",
+    "claim": "The Indian government has announced free electricity to all farmers starting July 2025.",
+    "expected_verdict": "False"
+  },
+  {
+    "id": "test_002",
+    "claim": "GST collections for the month of June 2024 touched an all-time high of 1.8 Lakh Crore.",
+    "expected_verdict": "True"
+  },
+  {
+    "id": "test_003",
+    "claim": "The Ministry of Tech has announced that all citizens will receive a free robot by 2030.",
+    "expected_verdict": "Unverifiable"
+  }
+]

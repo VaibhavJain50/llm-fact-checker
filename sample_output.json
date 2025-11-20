@@ -1,0 +1,49 @@
+[
+  {
+    "id": "test_001",
+    "claim": "The Indian government has announced free electricity to all farmers starting July 2025.",
+    "verdict": "False",
+    "reasoning": "The Ministry of Power confirmed subsidies will continue but explicitly stated no free electricity scheme has been announced.",
+    "evidence_used": [
+      "The Ministry of Power has confirmed that electricity subsidies for farmers will continue under current rates until 2026, but no free electricity scheme has been announced for all farmers."
+    ],
+    "entities_detected": [
+      "Indian",
+      "July 2025"
+    ],
+    "confidence_scores": [
+      0.82
+    ]
+  },
+  {
+    "id": "test_002",
+    "claim": "GST collections for the month of June 2024 touched an all-time high of 1.8 Lakh Crore.",
+    "verdict": "True",
+    "reasoning": "The claim matches the reported GST collection figures for June 2024 exactly.",
+    "evidence_used": [
+      "GST collections for the month of June 2024 touched an all-time high of 1.8 Lakh Crore."
+    ],
+    "entities_detected": [
+      "GST",
+      "June 2024",
+      "1.8 Lakh Crore"
+    ],
+    "confidence_scores": [
+      0.98
+    ]
+  },
+  {
+    "id": "test_003",
+    "claim": "The Ministry of Tech has announced that all citizens will receive a free robot by 2030.",
+    "verdict": "Unverifiable",
+    "reasoning": "No matching facts regarding free robots or a 'Ministry of Tech' were found in the trusted knowledge base.",
+    "evidence_used": [],
+    "entities_detected": [
+      "The Ministry of Tech",
+      "2030"
+    ],
+    "confidence_scores": [
+      0.12
+    ]
+  }
+]
