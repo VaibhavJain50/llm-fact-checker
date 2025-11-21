@@ -5,6 +5,5 @@ streamlit
 pandas
 numpy
 spacy
-
-# This line downloads the model directly during installation
-https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
+# This link matches the latest spaCy version (3.8.x)
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0.tar.gz
