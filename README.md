@@ -11,9 +11,6 @@ This solution uses a **hybrid approach**: combining `spaCy` for Entity Recogniti
 
 ---
 
-## 🎥 Video Walkthrough
-[Link to Video Walkthrough](YOUR_YOUTUBE_LINK_HERE)  
-*(Please watch this 4-minute video for an architectural overview and demo)*
 
 ---
 
